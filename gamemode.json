@@ -1,6 +1,6 @@
 {
-  "Name": "TDM",
-  "Description": "Team Death Match. Битва двух команд",
+  "Name": "Lift. Маняк",
+  "Description": "live or kill. Убей или выжыви",
   "StartClientVersion": 334,
   "MapFilter": {
     "IsBlank": false,
